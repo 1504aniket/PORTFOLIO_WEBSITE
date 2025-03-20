@@ -22,7 +22,7 @@ To run the portfolio locally, follow these steps:
 
 ## 🚀 Deployment
 
-The portfolio is deployed on Netlify. Visit the live version [here](https://responsive-dashbord.netlify.app/). 🌟
+The portfolio is deployed on Netlify. Visit the live version [here](https://67dc598375df854a18ea09df--fascinating-malabi-152273.netlify.app). 🌟
 
 ## 🤝 Contributing
 
