@@ -28,6 +28,4 @@ The portfolio is deployed on Netlify. Visit the live version [here](https://resp
 
 Contributions are welcome! 🎉 If you spot any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-## ⭐ Star and Follow on LinkedIn
 
-If you find this portfolio helpful or interesting, please consider giving it a star ⭐ on GitHub and following me on [LinkedIn](https://www.linkedin.com/in/akash-kompelly-7b8139243/) for more updates and projects!
