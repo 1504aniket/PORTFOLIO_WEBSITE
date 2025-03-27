@@ -12,17 +12,10 @@ A fully responsive portfolio website showcasing my skills and projects. 🚀
 
 **Note**: Please ignore the data in the portfolio as it is randomly generated.
 
-## 🛠️ Installation
-
-To run the portfolio locally, follow these steps:
-
-1. 📥 Clone this repository: `https://github.com/AkashKompelly/Responsive_Portfolio.git`
-2. 📂 Navigate to the project directory: `cd Responsive_Dashbord`
-3. 🌐 Open the `index.html` file in your preferred web browser.
 
 ## 🚀 Deployment
 
-The portfolio is deployed on Netlify. Visit the live version [here](https://67dc598375df854a18ea09df--fascinating-malabi-152273.netlify.app). 🌟
+The portfolio is deployed on Netlify. Visit the live version [here](https://fascinating-malabi-152273.netlify.app). 🌟
 
 ## 🤝 Contributing
 
